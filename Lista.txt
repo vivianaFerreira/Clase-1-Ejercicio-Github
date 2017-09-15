@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Medina, Diego (xxxxxx) -> Usuario Github: diegomedina248
 ----------------------------------------
 
@@ -32,4 +32,4 @@ Rodriguez Bianchi, Viviana Lourdes (203579) --> Usuario Github:
 Rodríguez Fernández, Carolina (173620) --> Usuario Github:
 Rodriguez Janeiro, Sebastián Gustavo (192412) --> Usuario Github:
 Virsauskas Saint Hubert, Joaquin (210594) --> Usuario Github:
-Zawrzykraj Adler, Sebastian (180110) --> Usuario Github:
+Zawrzykraj Adler, Sebastian (180110) --> Usuario Github:zebaseta
