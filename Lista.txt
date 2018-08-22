@@ -14,7 +14,7 @@ Elizalde Gauthier, María Noel (171010) -> Usuario Github:
 Erlich Velázquez, Maximiliano  (143216) -> Usuario Github:
 Fabiano Pigatto, Bruno Nicolás (147478) -> Usuario Github:
 Fasoli Gómez, Josefina  (176737) -> Usuario Github:
-Fernández Echeverría, Ulises  (109679) -> Usuario Github:
+Fernández Echeverría, Ulises  (109679) -> Usuario Github:ufernand853@gmail.com
 Ferreira Suarez, Juan Manuel (203664) -> Usuario Github:
 García da Silva Tavares, Sofía Inés (187588) -> Usuario Github:
 González Hernández, Pablo Andrés (134677) -> Usuario Github:
@@ -32,5 +32,3 @@ Zinola Zinola, Camila Yurasí (205288) -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
-
-
