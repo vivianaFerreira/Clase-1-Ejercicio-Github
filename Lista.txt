@@ -1,35 +1,33 @@
 ﻿---------------Ejemplo------------------
-Medina, Diego (xxxxxx) -> Usuario Github: diegomedina248
+Cecilia, Leonardo (xxxxxx) -> Usuario Github: lcecilia
 ----------------------------------------
 
-Abreu Mendez, Federico Anthony (194752) --> Usuario Github:
-Alonso Tomasetti, Lautaro Alejandro (192026) --> Usuario Github:
-Areosa Denevi, Diego Alvaro (194457) --> Usuario Github:
-Balduccio Méndez, Bruno Ricardo (157967) --> Usuario Github:
-Barrios Garcia, Pedro Gabriel (182770) --> Usuario Github:
-Biatturi Camacho, Guillermo Fabián (196285) --> Usuario Github: gbiatturi
-Cabrera Costa, Fernando Guzmán (91321) --> Usuario Github:
-Coelho Gonzalez, Santiago (204113) --> Usuario Github: SantiagoCoelho12
-Comesaña Vidal, Martín (183579) --> Usuario Github:
-Damiani Gianoli, Nicolás (192489) --> Usuario Github:
-De León Díaz, Rodrigo Matías (176311) --> Usuario Github:
-Della Cella Mac Cormack, Andres Mario (193949) --> Usuario Github:
-Duarte Katcher, Rodrigo (217374) --> Usuario Github:
-Erlich Velázquez, Maximiliano (143216) --> Usuario Github:
-Francescoli Rocca, Paola (150273) --> Usuario Github:
-Gallardo Bosca, Felipe (191856) --> Usuario Github:
-Garcia Fischer, Sebastian (205205) --> Usuario Github:
-Iriart Córdoba, Mónica Beatriz (76637) --> Usuario Github: monicairiart
-Kurin Kac, Gonzalo (192488) --> Usuario Github:
-Méndez Ferro, Bruno Martín (202287) --> Usuario Github:
-Patri Martín, Christian Alejandro (205924) --> Usuario Github:  christianPatri
-Peon Ballesteros, Jessica (202554) --> Usuario Github:
-Petrocelli Olivar, Paolo Giovanni (189640) --> Usuario Github: mcpetro
-Racui Rodríguez, Gaston (201027) --> Usuario Github:
-Rodríguez Ayphassorho, Alfredo Nicolás (178370) --> Usuario Github:
-Rodríguez Bianchi, Martín Carlos (166208) --> Usuario Github:martinRodriguezB
-Rodriguez Bianchi, Viviana Lourdes (203579) --> Usuario Github:vivianaRB
-Rodríguez Fernández, Carolina (173620) --> Usuario Github:
-Rodriguez Janeiro, Sebastián Gustavo (192412) --> Usuario Github:
-Virsauskas Saint Hubert, Joaquin (210594) --> Usuario Github: joacotee94
-Zawrzykraj Adler, Sebastian (180110) --> Usuario Github:zebaseta
+Alonso Tomasetti, Lautaro Alejandro (192026) -> Usuario Github:
+Basualdo Pola, Andrea Lucía (145456) -> Usuario Github: lbasualdo
+de Armas Baison, Guillermo  (186263) -> Usuario Github: GuilleDA
+Doune Fernández, Álvaro Martín (170722) -> Usuario Github:
+Drago Ciliano, Gianfranco  (198490) -> Usuario Github:
+Elizalde Gauthier, Maria Noel (171010)  -> Usuario Github: mnelizalde09
+Elvas Acosta, Alejandra  (207206) -> Usuario Github: AElvas
+Ferulano Canedo, Santiago Mateo (158632) -> Usuario Github:
+Gallo García, Agustina  (200108) -> Usuario Github:agustinaGallo97
+Gallo García, Micaela  (200104) -> Usuario Github:micaGallo
+Glisenti Borges, Lucía  (187346) -> Usuario Github:lglisentiH
+Green Aquistapacie, Nicholas  (176374) -> Usuario Github:
+Guruceaga Artave, Esteban Javier (225042) -> Usuario Github: EstebanGuru
+Larralde Sande, Santiago  (217922) -> Usuario Github:
+Machado Fernández, Andrés  (199013) -> Usuario Github:
+Maciel Silvestri, Cristhian Freddy (163471) -> Usuario Github:
+Martínez Tarán, Francisco  (233126) -> Usuario Github:
+Núñez Carballo, Miguel Jesús (191877) -> Usuario Github: JNMiguel
+Ottavis Etcheverry, Joaquin Guillermo (197841) -> Usuario Github: jottavis
+Pettinari Testa, Andrés Mario (187612) -> Usuario Github: elpetti
+Pigatto Rafols, Gianfranco Ennio (204269) -> Usuario Github: calevgian100
+Pizzarello Sala, Diego Martín (211576) -> Usuario Github:
+Rosillo Chipas, Joaquina  (201529) -> Usuario Github: jrosilloch
+Souza Machado, Rodrigo  (192787) -> Usuario Github:
+Vilensky Kon, Federico  (185975) -> Usuario Github: fedevilensky
+() -> Usuario Github:
+() -> Usuario Github:
+() -> Usuario Github:
+() -> Usuario Github:
