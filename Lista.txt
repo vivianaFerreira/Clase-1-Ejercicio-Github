@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Cecilia, Leonardo (xxxxxx) -> Usuario Github: lcecilia
 ----------------------------------------
 
@@ -10,8 +10,8 @@ Drago Ciliano, Gianfranco  (198490) -> Usuario Github:
 Elizalde Gauthier, Maria Noel (171010)  -> Usuario Github: mnelizalde09
 Elvas Acosta, Alejandra  (207206) -> Usuario Github: AElvas
 Ferulano Canedo, Santiago Mateo (158632) -> Usuario Github:
-Gallo García, Agustina  (200108) -> Usuario Github:
-Gallo García, Micaela  (200104) -> Usuario Github:
+Gallo García, Agustina  (200108) -> Usuario Github:agustinaGallo97
+Gallo García, Micaela  (200104) -> Usuario Github:micaGallo
 Glisenti Borges, Lucía  (187346) -> Usuario Github:lglisentiH
 Green Aquistapacie, Nicholas  (176374) -> Usuario Github:
 Guruceaga Artave, Esteban Javier (225042) -> Usuario Github: EstebanGuru
@@ -31,5 +31,3 @@ Vilensky Kon, Federico  (185975) -> Usuario Github: fedevilensky
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
-
-
